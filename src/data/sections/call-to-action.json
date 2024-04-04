@@ -1,0 +1,9 @@
+{
+    "title": "Интересны наши <span class=\"mil-marker\">работы?</span>",
+    "subtitle": "Есть идеи",
+    "description": "Обращайтесь по любым вопросам и предложениям.",
+    "button": {
+        "label": "Связаться с нами",
+        "link": "/contact"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "items": [
+        {
+            "image": "/img/photo/5.jpg",
+            "alt": "image",
+            "subtitle": "Надежно",
+            "title": "Строительство <br>домов из <span class=\"mil-accent\">газобетона</span>",
+            "link": "/services/"
+        },
+        {
+            "image": "/img/photo/17.jpg",
+            "alt": "image",
+            "subtitle": "Красиво",
+            "title": "Ремонт <br>жилых <span class=\"mil-accent\">помещений</span> <br>",
+            "link": "/services/"
+        },
+        {
+            "image": "/img/photo/18.jpg",
+            "alt": "image",
+            "subtitle": "Современно",
+            "title": "Строительство<br><span class=\"mil-accent\">монолитных</span><br>домов",
+            "link": "/services/"
+        }
+    ]
+}

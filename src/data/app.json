@@ -1,0 +1,115 @@
+{
+    "settings": {
+        "siteName": "Дроздово СК",
+        "siteDescription": "Услуги строительства и ремонта зданий и помещений",
+        "formspreeURL": "https://formspree.io/f/your_api_key",
+        "mailchimp": {
+            "url": "",
+            "key": ""
+        },
+        "perPage": 6
+    },
+    "header": {
+        "logo": {
+            "image": "/img/logo/logo-light.png",
+            "alt": "Logo"
+        },
+        "menu": [
+            {
+                "label": "Главная",
+                "link": "/",
+                "children": 0
+            },
+            {
+                "label": "Услуги",
+                "link": "/services",
+                "children": 0
+            },
+            {
+                "label": "Контакты",
+                "link": "/contact",
+                "children": 0
+            },
+            {
+                "label": "О компании",
+                "link": "/about",
+                "children": 0
+            }
+        ]
+    },
+    "footer": {
+        "logo": {
+            "image": "/img/logo/logo-light.png",
+            "alt": "Logo"
+        },
+        "copy": "© 2024",
+        "menu": [
+            {
+                "label": "О компании",
+                "link": "/about"
+            },
+            {
+                "label": "Услуги",
+                "link": "/services"
+            },
+            {
+                "label": "Контакты",
+                "link": "/contact"
+            }
+        ]
+    },
+    "social": [
+        {
+            "link": "https://facebook.com",
+            "title": "Facebook"
+        },
+        {
+            "link": "https://twitter.com",
+            "title": "Twitter"
+        },
+        {
+            "link": "https://instagram.com",
+            "title": "Instagram"
+        },
+        {
+            "link": "https://youtube.com",
+            "title": "Youtube"
+        }
+    ],
+    "projects": {
+        "categories": [
+            {
+                "name": "Architecture",
+                "slug": "architecture"
+            },
+            {
+                "name": "Interior",
+                "slug": "interior"
+            },
+            {
+                "name": "Decor",
+                "slug": "decor"
+            }
+        ]
+    },
+    "team": {
+        "categories": [
+            {
+                "name": "Executive",
+                "slug": "executive"
+            },
+            {
+                "name": "Data centers",
+                "slug": "data-centers"
+            },
+            {
+                "name": "Education",
+                "slug": "education"
+            },
+            {
+                "name": "Workplace",
+                "slug": "workplace"
+            }
+        ]
+    }
+}

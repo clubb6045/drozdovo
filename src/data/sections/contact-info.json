@@ -1,0 +1,16 @@
+{
+    "button": {
+        "label": "Связаться",
+        "link": "/contact"
+    },
+    "items": [
+        {
+            "label": "Email",
+            "value": "drozdovosk@tut.by"
+        },
+        {
+            "label": "Телефон для консультаций",
+            "value": "+37529-6309509"
+        }
+    ]
+}
