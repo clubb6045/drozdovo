@@ -51,7 +51,7 @@ async function Services() {
             {services.map((item, key) => (
               <div className="col-lg-4 mil-up" key={`services-item-${key}`}>
 
-                <Link href={`/services/${item.id}`} className="mil-service-card mil-mb-30">
+                <Link href={`/services/`} className="mil-service-card mil-mb-30">
                   <div className="mil-card-number">{key < 10 ? "0" + (key + 1) + "." : (key + 1) + "."}</div>
                   <div className="mil-center">
                     <div className="mil-icon mil-icon-lg mil-mb-30">

@@ -1,0 +1,1 @@
+"use strict";exports.id=105,exports.ids=[105],exports.modules={1105:(e,r,t)=>{t.r(r),t.d(r,{$$typeof:()=>c,__esModule:()=>o,default:()=>d});let s=(0,t(6843).createProxy)(String.raw`D:\Projects\prog\nextjs\drozdovo_site\ruizarchreact-10\ruizarch\src\app\_components\sliders\RecentProjects.jsx`),{__esModule:o,$$typeof:c}=s,d=s.default}};

@@ -1,0 +1,1 @@
+"use strict";exports.id=989,exports.ids=[989],exports.modules={8989:(e,r,s)=>{s.r(r),s.d(r,{$$typeof:()=>d,__esModule:()=>o,default:()=>a});let t=(0,s(6843).createProxy)(String.raw`D:\Projects\prog\nextjs\drozdovo_site\ruizarchreact-10\ruizarch\src\app\_components\sliders\HeroOne.jsx`),{__esModule:o,$$typeof:d}=t,a=t.default}};

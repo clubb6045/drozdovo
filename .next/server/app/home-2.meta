@@ -1,1 +1,5 @@
-{"headers":{"x-next-cache-tags":"/(pages)/home-2/page"}}
+{
+  "headers": {
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(pages)/layout,_N_T_/(pages)/home-2/layout,_N_T_/(pages)/home-2/page,_N_T_/home-2"
+  }
+}
