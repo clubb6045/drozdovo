@@ -15,9 +15,9 @@ import AppData from "@data/app.json";
 
 export const metadata = {
   title: {
-		default: AppData.settings.siteName,
-		template: "%s | " + AppData.settings.siteName,
-	},
+    default: AppData.settings.siteName,
+    template: "%s | " + AppData.settings.siteName,
+  },
   description: AppData.settings.siteDescription,
 }
 
@@ -26,6 +26,7 @@ const Layouts = ({
 }) => {
   return (
     <html lang="en">
+      <meta name="google-site-verification" content="Hu4OSwhg-x9IbZvMDrsqGrN4h5lAq0jaHiVsJ0lOt9M" />
       <body>
         <div className="mil-wrapper">
           {children}
